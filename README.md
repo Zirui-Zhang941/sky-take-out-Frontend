@@ -1,1 +1,1 @@
-Sky take out website frontend development
+Sky take out website frontend development.
